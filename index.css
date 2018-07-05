@@ -1,0 +1,17 @@
+body{
+  background: gray;
+  text-align: center;
+}
+img{
+  width: 10%;
+  border-radius: 30%;
+}
+.card{
+  background : lightgray;
+  border-radius: 20%;
+}
+#card{
+  justify-content: space-around;
+margin: 2%;
+border-radius: 2em;
+}
