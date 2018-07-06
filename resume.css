@@ -1,0 +1,33 @@
+.main{
+  background:grey;
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.left{
+  background: lightgreen;
+  width: 100%;
+}
+.right{
+  background: yellow;
+width: 100%;
+}
+@media only screen and (min-device-width:450px) and (max-device-width:780px){}
+  .main{
+    width: 100%;
+
+  }
+  .left{
+    width: 100%;
+
+  }
+  .left1{
+    width: 100%;
+  }
+  .details{
+    display: flex;
+    justify-content: space-between;
+  }
+  .right{
+    width: 100%;
+  }
